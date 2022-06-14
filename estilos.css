@@ -1,0 +1,57 @@
+body {
+    background-color:rgba(34,53,68,255);
+    font-size: 1rem;
+}
+
+
+header {
+   display:flex;
+   background-color:rgba(63,91,112,255);
+   justify-content: space-between;
+   margin-top:2.5rem;
+   margin-left:9rem;
+   margin-right:9rem;
+}
+
+
+ 
+
+div {
+    background-color:rgba(114,149,140,255);
+    flex-grow: 1 ;
+    padding: 0.7rem;
+    margin: 1rem;
+    text-align: center;
+    color: white;
+}
+
+
+main {
+     display:flex;
+     background-color:rgba(63,91,112,255);
+     margin-top: 1.5rem;
+     margin-bottom: 5rem;
+     margin-left: 9rem;
+     margin-right: 9rem;
+}
+
+
+
+
+section {
+    color: black;
+    background-color:rgba(218,220,225,255);
+    margin:1rem;
+    padding:1rem;
+    padding-bottom:5rem;
+    flex:2 30%
+   
+}
+
+
+#caja-grande {
+    flex:1 60%;
+}
+
+
+/* By EstebanM */
